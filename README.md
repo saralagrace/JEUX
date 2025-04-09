@@ -1,6 +1,6 @@
 GROUPE    YATCHOU SARA 
 
-ESCAPE BOT
+OXYGENE RUSH
 
 ![Logo du projet](2.identité/logo.png)
 
@@ -8,7 +8,7 @@ ESCAPE BOT
 
 
 ## SUJET 
-Dans Escape Bot, tu incarnes un petit robot égaré dans une station spatiale abandonnée. Ton objectif est de collecter des batteries pour survivre, tout en évitant les pièges mortels qui hantent les couloirs désolés de la station. Le temps est compté : ton oxygène diminue à chaque seconde…
+Dans OXYGENE RUSH, tu incarnes un petit robot égaré dans une station spatiale abandonnée. Ton objectif est de collecter des batteries pour survivre, tout en évitant les pièges mortels qui hantent les couloirs désolés de la station. Le temps est compté : ton oxygène diminue à chaque seconde…
 
 
 ## Type de jeu
