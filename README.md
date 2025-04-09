@@ -2,7 +2,7 @@ GROUPE    YATCHOU SARA
 
 ESCAPE BOT
 
-![Logo du jeu ](C:\Users\ysara\Desktop\JEUX\2.identité\logo)
+![logo](C:\Users\ysara\Desktop\JEUX\2.identité)
 
 
 
