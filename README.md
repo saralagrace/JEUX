@@ -1,6 +1,10 @@
+GROUPE    YATCHOU SARA 
+
 ESCAPE BOT
 
-Groupe yatchou Sara 
+![Logo du jeu ](C:\Users\ysara\Desktop\JEUX\2.identité\logo)
+
+
 
 ## SUJET 
 Dans Escape Bot, tu incarnes un petit robot égaré dans une station spatiale abandonnée. Ton objectif est de collecter des batteries pour survivre, tout en évitant les pièges mortels qui hantent les couloirs désolés de la station. Le temps est compté : ton oxygène diminue à chaque seconde…
@@ -15,6 +19,7 @@ Vue : 2D latérale
 Style graphique : Minimaliste futuriste, ambiance sombre et métallique
 
 ## Objectifs du joueur
+
 Collecter les batteries pour prolonger ton autonomie.
 
 Éviter les pièges (piques, lasers, robots défectueux, etc.).
@@ -22,6 +27,7 @@ Collecter les batteries pour prolonger ton autonomie.
 Atteindre la sortie avant la fin de l’oxygène.
 
 ## Mécaniques de jeu
+
 Compte à rebours d’oxygène visible à l’écran
 
 Contrôle fluide du robot (saut, double saut, glissade)
