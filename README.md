@@ -21,6 +21,9 @@ Style graphique : Minimaliste futuriste, ambiance sombre et métallique
 
 ## Objectifs du joueur
 
+![ACTEUR](2.identité/A.jpeg)
+
+
 Collecter les batteries pour prolonger ton autonomie.
 
 Éviter les pièges (piques, lasers, robots défectueux, etc.).
@@ -28,6 +31,12 @@ Collecter les batteries pour prolonger ton autonomie.
 Atteindre la sortie avant la fin de l’oxygène.
 
 ## Mécaniques de jeu
+
+![batterie d'oxygène](2.identité/Z.jpeg)
+
+
+
+
 
 Compte à rebours d’oxygène visible à l’écran
 
@@ -40,7 +49,7 @@ Système de score basé sur les batteries collectées + temps restant
 
 
 ## Présentation générale
-Titre du jeu : Escape Bot (nom temporaire)
+Titre du jeu : oxygene rush
 
 Genre : Plateforme / Arcade 2D
 
@@ -51,6 +60,9 @@ Public cible : Joueurs occasionnels, amateurs de jeux rétro/arcade
 Durée moyenne d’une session : 3 à 5 minutes par niveau
 
 ## Contexte & Univers
+
+![UNIVERS ](2.identité/E.jpg)
+
 Le joueur contrôle un robot d’exploration qui s’est réveillé seul dans une station spatiale désertée.
 
 L’ambiance est sombre, avec des lumières clignotantes et un bruit de fond angoissant (style science-fiction rétro).
@@ -74,6 +86,10 @@ Collecte : Ramasser des batteries pour augmenter le score et le temps
 Temps limité : L’oxygène s’épuise progressivement (compte à rebours visible)
 
 ## Éléments de jeu
+
+![pièges](2.identité/j.png)
+
+
 Pièges : Piques, lasers rotatifs, sols électrifiés
 
 Objets :
@@ -85,6 +101,10 @@ Clés ou interrupteurs (débloquent certaines portes)
 Niveaux : De difficulté croissante, avec thèmes visuels variés (zone médicale, hangar, centre de commandement…)
 
 ##  Style graphique & sonore
+
+[Écouter la chanson](2.identité/SON.mp3)
+
+
 Graphismes : Pixel art ou low-poly, tons sombres et néons
 
 Ambiance sonore : Musique synthwave lente + bruitages de station (bips, grésillements, alertes)
