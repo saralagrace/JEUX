@@ -87,7 +87,7 @@ Temps limité : L’oxygène s’épuise progressivement (compte à rebours visi
 
 ## Éléments de jeu
 
-![pièges](2.identité/j.png)
+![pièges ](2.identité/j.png) 
 
 
 Pièges : Piques, lasers rotatifs, sols électrifiés
