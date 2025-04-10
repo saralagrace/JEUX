@@ -1,4 +1,4 @@
-GROUPE    YATCHOU SARA 
+GROUPE    YATCHOU SARA ,lemana Franck,Henoc LAWSON
 
 OXYGENE RUSH
 
@@ -88,6 +88,7 @@ Temps limité : L’oxygène s’épuise progressivement (compte à rebours visi
 ## Éléments de jeu
 
 ![pièges ](2.identité/j.png) 
+
 
 
 Pièges : Piques, lasers rotatifs, sols électrifiés
